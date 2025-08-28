@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9807ea56-6e39-4999-bfd8-909985ba1ee2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EscapedoLabirinto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/assets/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/assets/fundo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/assets/labirinto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/assets/personagem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/jogo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/labirinto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/personagem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/tela.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HeloisedeOliveiraPedro"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HeloisedeOliveiraPedro/EscapedoLabirinto.git",
+    "accountId": "c3ffc711-ce12-436d-9956-d011b06057ca"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -38,10 +57,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.jogo.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.personagem.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Heloise pedro/PycharmProjects/EscapedoLabirinto/assets",
+    "settings.editor.selected.configurable": "vcs.log"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Heloise pedro\PycharmProjects\EscapedoLabirinto\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Heloise pedro\PycharmProjects\EscapedoLabirinto\code" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
